@@ -7,6 +7,8 @@ gem 'rails', '4.2.3'
 #gem 'sqlite3'
 gem 'pg'
 gem 'devise'
+gem 'jquery-datatables-rails', '~> 3.3.0'
+#gem 'jquery-datatables-rails', '~> 1.12.2', git: 'git://github.com/rweng/jquery-datatables-rails.git'
 # Use SCSS for stylesheets
 gem "therubyracer"
 gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
